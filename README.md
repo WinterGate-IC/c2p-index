@@ -1,4 +1,4 @@
-# 🛡️ C2P-INDEX – Command & Control Provider Watchlist
+# 🛡️ C2P-INDEX – Command & Control Provider INDEX
 
 **Tracking hosting providers that knowingly or unknowingly harbor nation-state APT command-and-control infrastructure.**
 
